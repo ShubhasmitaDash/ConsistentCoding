@@ -1,0 +1,15 @@
+import random as rand
+import statistics as s
+a1=rand.random()
+a2=rand.random()
+a3=rand.random()
+a4=rand.random()
+a5=rand.random()
+a6=rand.random()
+mean=s.mean([a1, a2, a3, a4, a5, a6])
+median=s.median([a1, a2, a3, a4, a5, a6])
+mode=s.mode([a1, a2, a3, a4, a5, a6])
+print("Random numbers:", a1, a2, a3, a4, a5, a6)
+print("Mean:", mean)
+print("Median:", median)
+print("Mode:", mode)

@@ -1,0 +1,6 @@
+year=float(input("Enter the number of years:"))
+print(year, "years is:")
+print(year*365, "days")
+print(year*365*24, "hours")
+print(year*365*24*60, "minutes")
+print(year*365*24*60*60, "seconds")

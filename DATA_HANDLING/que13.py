@@ -1,0 +1,18 @@
+import random
+import statistics as s
+a=int(input("Give the least of the range:"))
+b=int(input("Give the greatest of the range:"))
+c=int(input("Give the step of the range:"))
+a1=random.randrange(a, b, c)
+a2=random.randrange(a, b, c)
+a3=random.randrange(a, b, c)
+a4=random.randrange(a, b, c)
+a5=random.randrange(a, b, c)
+a6=random.randrange(a, b, c)
+mean=s.mean([a1, a2, a3, a4, a5, a6])
+median=s.median([a1, a2, a3, a4, a5, a6])
+mode=s.mode([a1, a2, a3, a4, a5, a6])
+print("Random numbers:", a1, a2, a3, a4, a5, a6)
+print("Mean:", mean)
+print("Median:", median)
+print("Mode:", mode)
