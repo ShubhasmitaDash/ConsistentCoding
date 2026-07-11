@@ -10,11 +10,11 @@ class Solution(object):
         :type head: ListNode
         :rtype: bool
         """
-        visit=set()
+        visit=[]
         temp=head
         while temp:
             if temp not in visit:
-                visit.add(temp) 
+                visit.append(temp) 
             else:
                 return True
                 break
