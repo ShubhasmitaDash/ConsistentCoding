@@ -17,12 +17,11 @@ class Solution(object):
         while t1 and t2:
             if t1.val<=t2.val:
                 tail.next=t1
-                tail=tail.next
                 t1=t1.next
             else:
                 tail.next=t2
-                tail=tail.next
                 t2=t2.next
+            tail=tail.next
         if t1:
             tail.next=t1
         if t2:
