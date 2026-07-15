@@ -21,9 +21,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0142-linked-list-cycle-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->
