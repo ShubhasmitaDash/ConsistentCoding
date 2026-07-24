@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0020-valid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Divide and Conquer
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0213-house-robber-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
