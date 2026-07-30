@@ -71,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/1148-article-views-i) |
+| [1527-patients-with-a-condition](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/ShubhasmitaDash/ConsistentCoding/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
